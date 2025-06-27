@@ -31,8 +31,7 @@
 
 ## Instalacja i uruchomienie
 
-1. **Sklonuj repozytorium:**
-   
+1. **Sklonuj repozytorium:**   
    git clone https://github.com/twoja-nazwa-uzytkownika/trackmyrun.git
    
 2. **Wejdź do katalogu projektu:**
