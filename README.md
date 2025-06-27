@@ -32,15 +32,18 @@
 ## Instalacja i uruchomienie
 
 1. **Sklonuj repozytorium:**
-2. 
+   
 git clone https://github.com/twoja-nazwa-uzytkownika/trackmyrun.git
 
 cd trackmyrun
-3. **Zainstaluj zależności:**
-npm install 
-4. **Uruchom projekt w Expo:**
+
+2. **Zainstaluj zależności:**
+npm install
+
+3. **Uruchom projekt w Expo:**
    npx expo start
-5. **Zeskanuj kod QR w aplikacji Expo Go na telefonie (Android/iOS).**
+   
+4. **Zeskanuj kod QR w aplikacji Expo Go na telefonie (Android/iOS).**
    
 ---
 ## Licencja
