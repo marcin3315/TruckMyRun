@@ -14,7 +14,7 @@
 
 ---
 
-## 🧰 Technologie i biblioteki
+## Technologie i biblioteki
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
@@ -28,5 +28,18 @@
 - [ESLint + Prettier](https://eslint.org/)
 
 ---
-Licencja
+
+## Instalacja i uruchomienie
+
+1. **Sklonuj repozytorium:**
+git clone https://github.com/twoja-nazwa-uzytkownika/trackmyrun.git
+cd trackmyrun
+2. **Zainstaluj zależności:**
+npm install 
+3. **Uruchom projekt w Expo:**
+   npx expo start
+4. **Zeskanuj kod QR w aplikacji Expo Go na telefonie (Android/iOS).**
+   
+---
+## Licencja
 Projekt edukacyjny – do wykorzystania w celach naukowych i demonstracyjnych
