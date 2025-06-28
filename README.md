@@ -32,13 +32,13 @@
 ## Instalacja i uruchomienie
 
 1. **Sklonuj repozytorium:**   
-   git clone https://github.com/twoja-nazwa-uzytkownika/trackmyrun.git
+   git clone https://github.com/marcin3315/TruckMyRun
    
 2. **Wejdź do katalogu projektu:**
-   cd trackmyrun
+   cd TrackMyRun
 
 3. **Zainstaluj zależności:**
-npm install
+   npm install
 
 4. **Uruchom projekt w Expo:**
    npx expo start
